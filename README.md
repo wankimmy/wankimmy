@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wankimmy" alt="wankimmy" /></a> </p>
 
+- 🔭 I’m currently working on [Festivent](https://festivent.com.my)
+
 - 🌱 I’m currently learning **React & Vue.js mobile development**
+
+- 👯 I’m looking to collaborate on **Startup Accelerator**
+
+- 🤝 I’m looking for help with **Digital Marketing & Business**
 
 - 👨‍💻 All of my projects are available at [www.safwanhakim.com](www.safwanhakim.com)
 
